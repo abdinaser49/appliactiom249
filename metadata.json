@@ -1,0 +1,6 @@
+{
+  "name": "Mandeq Islamic",
+  "description": "Baro Diintaada, Kobci Iimaankaaga. Centralized Islamic education platform for verified lessons from trusted sources, Qur'aan learning & Hifdh tracking, and admin content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
